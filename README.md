@@ -1,4 +1,3 @@
-# EpikAssignment1
 ## Mobile Number Match
 
 The file demo.py has the final code.
